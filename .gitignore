@@ -1,0 +1,18 @@
+# Build / dependencias
+node_modules/
+target/
+*.class
+*.jar
+
+# Datos locales y salidas
+backend/db/
+backend/outputs/
+*.log
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+desktop accesos directos/
